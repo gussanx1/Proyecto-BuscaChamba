@@ -12,10 +12,9 @@ BuscaChamba es una plataforma **innovadora y socialmente inclusiva** diseñada p
 
 🎯 **Misión:** Fomentar la igualdad de acceso al empleo y resaltar el valor del talento empírico en la sociedad.
 
-⚙️ Actualmente, la plataforma no cuenta con un backend, pero se planea desarrollarlo en futuras versiones para:
-- Gestión de usuarios.
-- Almacenamiento de datos.
-- Integración con servicios externos.
+⚙️ Actualmente, la plataforma permite realizar funciones como el registro de usuarios y el acceso a diversas funcionalidades básicas. Sin embargo, al tratarse de una demostración, los datos registrados no se almacenan de manera persistente. Estas credenciales de prueba corresponden a un entorno simulado (**Perubas**). 
+
+Es importante destacar que aún faltan varias modificaciones y mejoras por implementar para optimizar la experiencia del usuario y completar las funcionalidades clave.
 
 ---
 
